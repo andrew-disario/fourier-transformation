@@ -18,4 +18,4 @@ In this project the Fourier Transform is utilized to reconstruct an image using 
 <h2>Files and Links:</h2>
 
 - <b>[fourier-transformation.ipynb](https://github.com/andrew-disario/fourier-transformation/blob/main/fourier-transformation.ipynb)</b> 
-- <b>[d](https://github.com/andrew-disario/anomaly-detction-model/blob/main/nyc_taxi.csv)</b> 
+- <b>[elizabeth-tower-london.jpg](https://github.com/andrew-disario/fourier-transformation/blob/main/elizabeth-tower-london.jpg)</b> 
