@@ -1,7 +1,7 @@
 <h1>Fourier Transformation</h1>
 
 <h2>Description:</h2>
-In this project the Fourier Transform is utilized to reconstruct an image using only sine functions via python and data modelling. The Fourier transform (FT) is a transform that converts a function into a form that describes the frequencies present in the original function. The output of the transform is a complex-valued function of frequency. When, run a series of images are output and saved that, when viewed in quick succession, visualize this reconstruction.
+In this project, the Fourier Transform is utilized to reconstruct an image using only sine functions via python and data modelling. The Fourier transform (FT) is a transform that converts a function into a form that describes the frequencies present in the original function. The output of the transform is a complex-valued function of frequency. When, run a series of images are output and saved that, when viewed in quick succession, visualize this reconstruction.
 <br />
 
 
