@@ -19,3 +19,4 @@ In this project, the Fourier Transform is utilized to reconstruct an image using
 
 - <b>[fourier-transformation.ipynb](https://github.com/andrew-disario/fourier-transformation/blob/main/fourier-transformation.ipynb)</b> 
 - <b>[target_image.png](https://github.com/andrew-disario/fourier-transformation/blob/main/target_image.png)</b> 
+- <b>[generated-animation.gif](https://github.com/andrew-disario/fourier-transformation/blob/main/generated-animation.gif)</b> 
